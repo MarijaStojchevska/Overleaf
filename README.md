@@ -1,2 +1,2 @@
 # Overleaf
-# Introduction to LaTeX.
+Introduction to LaTeX.
